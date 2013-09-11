@@ -1,4 +1,4 @@
-(defproject clj-kafka/clj-kafka "0.1.0-0.8-SNAPSHOT"
+(defproject clj-kafka/clj-kafka "0.1.0-0.8"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [com.uswitch/kafka_2.9.2 "0.8.0-SNAPSHOT"]
